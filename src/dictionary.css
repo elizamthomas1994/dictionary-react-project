@@ -6,6 +6,12 @@
   margin: 20px 0;
 }
 
+.dictionary h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 input {
   width: 100%;
   padding: 4px 3px;
