@@ -1,0 +1,16 @@
+body {
+  background-color: skyblue;
+}
+
+.project-title {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  margin: 40px 0;
+}
+
+footer {
+  text-align: center;
+  margin: 20px 0;
+}

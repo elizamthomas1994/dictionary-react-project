@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Dictionary Project</h1>
+          <h1 className="project-title">Dictionary Project</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
         <footer>
           Coded by Eliza Thomas
