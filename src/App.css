@@ -16,6 +16,30 @@ body {
 }
 
 footer {
+  color: white;
   text-align: center;
   margin: 20px 0;
+}
+
+.coder {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.github,
+.linkedin {
+  color: white;
+}
+
+.github {
+  margin-right: 5px;
+}
+
+.linkedin {
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.coder a:hover {
+  color: purple;
 }

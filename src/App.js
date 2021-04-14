@@ -12,7 +12,15 @@ function App() {
           <Dictionary defaultKeyword="hello" />
         </main>
         <footer>
-          Coded by Eliza Thomas
+          <div className="coder">
+            <a href="https://github.com/elizamthomas1994/dictionary-react-project" target="_blank" rel="noreferrer" className="github">
+              <i class="fab fa-github"></i> 
+            </a>
+            Coded by                         
+            <a href="https://www.linkedin.com/in/eliza-thomas-aa0419198/" target="_blank" rel="noreferrer" className="linkedin">
+               Eliza Thomas
+            </a>
+          </div>
         </footer>
       </div>
     </div>
